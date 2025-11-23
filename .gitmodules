@@ -1,0 +1,9 @@
+[submodule "submodules/monografia"]
+	path = submodules/monografia
+	url = https://github.com/arthurcadore/eng-tcc-mono
+[submodule "submodules/resumo-expandido"]
+	path = submodules/resumo-expandido
+	url = https://github.com/arthurcadore/resumo-expandido-tcc
+[submodule "submodules/simulador"]
+	path = submodules/simulador
+	url = https://github.com/arthurcadore/argos3
