@@ -3,7 +3,7 @@
 	url = https://github.com/arthurcadore/eng-tcc-mono
 [submodule "submodules/resumo-expandido"]
 	path = submodules/resumo-expandido
-	url = https://github.com/arthurcadore/resumo-expandido-tcc
+	url = https://github.com/arthurcadore/eng-tcc-re
 [submodule "submodules/simulador"]
 	path = submodules/simulador
 	url = https://github.com/arthurcadore/argos3
