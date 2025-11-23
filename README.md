@@ -2,6 +2,13 @@
 
 This repository contains the materials for the Final Project of the Bachelor's Degree in Telecom Engineering at IFSC (Instituto Federal de Santa Catarina). It includes the monograph, extended abstract, and simulation code.
 
+
+The ARGOS-3 standard is used by the Brazilian System for Collecting Environmental Data (SBCDA), under the responsibility of the National Institute of Space Research (INPE), to receive information from thousands of Data Collection Platforms (PCDs) distributed throughout the national territory. The transmissions made by the PCDs are retransmitted by satellites such as the SCD-1, SCD-2 and the CBERS series, which orbit at approximately 750 km of altitude.
+
+| CBERS-4 | SCD-1 |
+|--------|--------|
+| ![CBERS-4](./assets/CBERS-4.png) | ![SCD-1](./assets/SCD-1.png) |
+
 ## Repository Structure
 
 - `submodules/monografia`: Contains the LaTeX source files for the monograph.   
