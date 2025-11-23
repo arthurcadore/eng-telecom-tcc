@@ -1,4 +1,4 @@
-# Telecom Engineering ARGOS-3 Final Project
+# Telecom Engineering Final Project (TCC)
 
 This repository contains the materials for the Final Project of the Bachelor's Degree in Telecom Engineering at IFSC (Instituto Federal de Santa Catarina). It includes the monograph, extended abstract, and simulation code.
 
